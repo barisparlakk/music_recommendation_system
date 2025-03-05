@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/kagglehub-main
+
 # C extensions
 *.so
 
